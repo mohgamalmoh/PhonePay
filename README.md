@@ -99,6 +99,10 @@
             like having a dedicated mocking implementation for the testing environment.
 
         3- Having a docker compose file to run everything by a single command.
+        
+        4- Asking the user to enter a verification code other than 123, this verification code 
+           could be dynamically generated randomly at the tranasction generation time and linked to it, 
+           this way we could have added another layer of security to the verification process.
 
 
 #### References:
